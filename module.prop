@@ -1,0 +1,7 @@
+id=lilac-jp-felica
+name=Patch for Redmi Note 10T Japan
+version=v01
+versionCode=01
+author=soralis0912
+description=Redmi Note 10T 日本版用パッチ
+updateJson=https://raw.githubusercontent.com/soralis0912/magisk-module-lilac-jp-felica/master/update.json
